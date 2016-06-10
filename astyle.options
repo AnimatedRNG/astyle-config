@@ -11,7 +11,7 @@ indent-namespaces
 indent-labels
 indent-col1-comments
 min-conditional-indent=2
-min-instatement-indent=40
+max-instatement-indent=40
 pad-oper
 pad-header
 unpad-paren
