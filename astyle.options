@@ -1,0 +1,22 @@
+style=google
+indent=spaces=4
+
+# do not attach namespaces or classes or inlines or extern-c
+
+indent-classes
+indent-modifiers
+indent-switches
+indent-cases
+indent-namespaces
+indent-labels
+indent-col1-comments
+min-conditional-indent=2
+min-instatement-indent=40
+pad-oper
+pad-header
+unpad-paren
+fill-empty-lines
+align-pointer=type
+close-templates
+max-code-length=80
+break-after-logical
